@@ -1,3 +1,15 @@
+apertium-eu-es (0.3.3~r56159-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Cleanup debian/rules.
+  * Cleanup debian/copyright.
+  * debian/control:
+    + Fixed dependencies.
+    + Updated Standards-Version to 3.9.8
+  * Set dh compat to 9.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 23 Jun 2016 20:02:25 +0530
+
 apertium-eu-es (0.3.3~r56159-1) trusty; urgency=low
 
   [ Tino Didriksen ]

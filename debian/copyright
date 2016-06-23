@@ -2,7 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: http://apertium.org/
 
 Files: *
-Copyright:      2008, Prompsit Language Engineering
+Copyright: 2008, Prompsit Language Engineering
            2005-2008, Universitat d'Alacant (Transducens group)
            2005-2007, IXA research group / IXA ikerkuntza taldea
            2005-2007, TALP research group, Universitat Politècnica de Catalunya
@@ -10,6 +10,8 @@ License: GPL-2
 
 Files: autogen.sh
 Copyright: 2002, Daniel Elstner  <daniel.elstner@gmx.net>
+License: GPL-2
+
 License: GPL-2
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
